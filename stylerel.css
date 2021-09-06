@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(53, 119, 119);
+  
+    text-align: center;
+    font:normal 15pt Arial;
+}
+
+section {color: rgb(3, 2, 2);
+        background-color: white;
+        padding: 100px;
+        border-radius: 20px;
+        width: 500px;
+        margin:auto;
+        box-shadow: 8px 8px 10px rgba(0, 0, 0, 0.425);
+        margin-top: 160px;
+       
+
+
+}
+
+footer { color: whitesmoke;
+    text-align: center;
+    font-style: italic;
+
+}
+
+
+
+#mensagem{padding-bottom: 20px;}
+
+a{color: rgb(2, 4, 5);
+  text-decoration: none;
+   margin-right: 50px;
+  margin-top: 20px;
+  font-size: 30px;
+
+}
+
+a:hover{background-color: rgba(250, 235, 215, 0.205);
+border-radius: 80px;
+box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.452);
+color:white;
+
+}
+
+#navbar{margin-top: 40px;
+margin-right:1000px;}
+
+
+#greeting{margin-top: 20px;}
+
+h2{color: #00000057;
+margin-bottom: 5px;
+font-size: 15px;}
